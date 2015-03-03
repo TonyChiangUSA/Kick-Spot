@@ -1,6 +1,5 @@
-package com.tonychiang.spoton;
+package com.tonychiang.kickspot;
 
-import com.deitel.spoton.R;
 
 import android.app.Activity;
 import android.content.Context;

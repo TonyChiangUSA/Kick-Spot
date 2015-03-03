@@ -1,4 +1,4 @@
-package com.tonychiang.spoton;
+package com.tonychiang.kickspot;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -6,7 +6,6 @@ import java.util.Random;
 import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.Queue;
 
-import com.deitel.spoton.R;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
